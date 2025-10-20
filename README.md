@@ -159,9 +159,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-- 📧 Email: support@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/Marwan911e/socket-communication-lib/issues)
-- 📖 Documentation: [Wiki](https://github.com/Marwan911e/socket-communication-lib/wiki)
+- 📧 Email: marwan.04e@gmail.com
 
 ## 🗺️ Roadmap
 
