@@ -34,17 +34,20 @@ A comprehensive distributed systems project demonstrating fundamental concepts o
 ## 📋 API Reference
 
 ### Supported Operations
+
 - `SQUARE <number>` - Calculate the square of a number
-- `SUM <a> <b>` - Calculate the sum of two numbers  
+- `SUM <a> <b>` - Calculate the sum of two numbers
 - `EXIT` - Terminate the connection gracefully
 
 ## 🛠️ Installation
 
 ### Prerequisites
+
 - GCC 4.9+ or Clang 3.5+
 - Unix-like operating system (Linux, macOS, or WSL)
 
 ### Quick Start
+
 ```bash
 # Clone the repository
 git clone https://github.com/Marwan911e/socket-communication-lib.git
@@ -63,6 +66,7 @@ make all
 ## 💻 Usage Examples
 
 ### Basic Usage
+
 ```bash
 # Start server
 ./server
@@ -82,6 +86,7 @@ Enter command: EXIT
 ```
 
 ### Advanced Usage
+
 ```bash
 # Build with custom flags
 make CFLAGS="-O2 -DDEBUG" all
@@ -93,6 +98,7 @@ make CFLAGS="-O2 -DDEBUG" all
 ## 🔧 Development
 
 ### Building from Source
+
 ```bash
 # Standard build
 make all
@@ -108,6 +114,7 @@ make clean
 ```
 
 ### Project Structure
+
 ```
 ├── server.c          # Server implementation
 ├── client.c          # Client implementation
@@ -147,6 +154,7 @@ make clean
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
 ### Development Setup
+
 1. Fork the repository
 2. Create a feature branch
 3. Make your changes
@@ -159,7 +167,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-- 📧 Email: support@example.com
+- 📧 Email: marwan.04e@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/Marwan911e/socket-communication-lib/issues)
 - 📖 Documentation: [Wiki](https://github.com/Marwan911e/socket-communication-lib/wiki)
 
