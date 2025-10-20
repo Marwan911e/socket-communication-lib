@@ -5,12 +5,14 @@ Thank you for your interest in contributing to this distributed systems project!
 ## 🤝 How to Contribute
 
 ### For Educational Discussions
+
 - Create an issue for questions about distributed systems concepts
 - Suggest improvements for learning purposes
 - Share alternative approaches or optimizations
 - Discuss networking and socket programming techniques
 
 ### Code Contributions
+
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
@@ -20,6 +22,7 @@ Thank you for your interest in contributing to this distributed systems project!
 ## 📋 Code Style Guidelines
 
 ### C Programming Standards
+
 - Follow C99 standard
 - Use meaningful variable names
 - Add comments for complex distributed systems logic
@@ -27,12 +30,14 @@ Thank you for your interest in contributing to this distributed systems project!
 - Include error handling for all system calls
 
 ### Distributed Systems Best Practices
+
 - Document network protocols and communication patterns
 - Include proper resource cleanup
 - Add timeout handling for network operations
 - Implement graceful error recovery
 
 ### Example Code Style
+
 ```c
 // Good: Clear distributed systems concept
 int create_server_socket(int port) {
@@ -54,12 +59,14 @@ int s(int p) {
 ## 🧪 Testing Guidelines
 
 ### Before Submitting
+
 - Test on multiple platforms (Linux, macOS, WSL)
 - Verify network communication works correctly
 - Check error handling scenarios
 - Ensure proper resource cleanup
 
 ### Test Commands
+
 ```bash
 # Build and test
 make clean && make debug
@@ -74,17 +81,20 @@ make test
 ## 📚 Learning Resources
 
 ### Distributed Systems Concepts
+
 - [Distributed Systems: Concepts and Design](https://www.distributed-systems.net/)
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 - [GNU C Programming Tutorial](https://www.gnu.org/software/gnu-c-manual/)
 
 ### Socket Programming
+
 - [Unix Network Programming](https://www.unpbook.com/)
 - [Linux Socket Programming](https://www.linuxhowtos.org/C_C++/socket.htm)
 
 ## 🐛 Reporting Issues
 
 When reporting issues, please include:
+
 - Operating system and version
 - GCC version (`gcc --version`)
 - Steps to reproduce the problem
@@ -92,10 +102,12 @@ When reporting issues, please include:
 - Any error messages or logs
 
 ### Issue Template
+
 ```markdown
 **Platform:** Linux Ubuntu 20.04
 **GCC Version:** 9.3.0
 **Steps to Reproduce:**
+
 1. Run `make all`
 2. Start server with `./server`
 3. Connect client with `./client`
@@ -106,25 +118,31 @@ When reporting issues, please include:
 
 **Error Log:**
 ```
+
 Segmentation fault (core dumped)
+
 ```
+
 ```
 
 ## 🎯 Areas for Contribution
 
 ### High Priority
+
 - [ ] Multi-client support implementation
 - [ ] Authentication and security features
 - [ ] Configuration file support
 - [ ] Logging and monitoring capabilities
 
 ### Medium Priority
+
 - [ ] Performance optimizations
 - [ ] Additional mathematical operations
 - [ ] Docker containerization
 - [ ] CI/CD pipeline setup
 
 ### Low Priority
+
 - [ ] Documentation improvements
 - [ ] Code examples and tutorials
 - [ ] Performance benchmarking
@@ -149,13 +167,14 @@ git commit -m "changes"
 ## 🏆 Recognition
 
 Contributors will be recognized in:
+
 - README.md contributors section
 - Release notes
 - Project documentation
 
 ## 📞 Getting Help
 
-- 📧 Email: support@example.com
+- 📧 Email: marwan.04e@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/Marwan911e/socket-communication-lib/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/Marwan911e/socket-communication-lib/discussions)
 
